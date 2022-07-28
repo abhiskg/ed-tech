@@ -2,3 +2,8 @@
   max-height: 600px;
   filter: brightness(50%);
 }
+
+.feedback-icon {
+  background-color: #dcf2fe;
+  border-radius: 50%;
+}
