@@ -1,6 +1,13 @@
 .banner-img {
-  max-height: 600px;
   filter: brightness(50%);
+}
+
+.elarning-section {
+  background-color: #f4fafd;
+}
+
+.joinNow-section {
+  background-color: #289bde;
 }
 
 .feedback-icon {
