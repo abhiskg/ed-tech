@@ -7,10 +7,14 @@
 }
 
 .joinNow-section {
-  background-color: #289bde;
+  background-color: #e7f1ff;
 }
 
 .feedback-icon {
   background-color: #dcf2fe;
   border-radius: 50%;
+}
+
+.link-button {
+  background-color: #242424;
 }
